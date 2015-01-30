@@ -1,10 +1,10 @@
-[What's New in Laravel 5.0 (Alpha)](https://laracasts.com/series/whats-new-in-laravel-5)
+# What's New in Laravel 5.0 (Alpha)
 
----
+[课程地址](https://laracasts.com/series/whats-new-in-laravel-5)
 
-Each new release of Laravel feels like a mini-Christmas, and version 5 is no different! Though some of these changes might seem jolting at first, don't worry; give me a few minutes, and I'll explain everything you need to know. Get ready!
+> Each new release of Laravel feels like a mini-Christmas, and version 5 is no different! Though some of these changes might seem jolting at first, don't worry; give me a few minutes, and I'll explain everything you need to know. Get ready!
 
-Laravel 的每个新版本感觉就像一个迷你的圣诞节，而版本 5 依然如此！虽然其中的一些变化似乎在颠覆原先的思路，不要担心，给我几分钟，我会解释你需要知道的一切。做好准备！
+> Laravel 的每个新版本感觉就像一个迷你的圣诞节，而版本 5 依然如此！虽然其中的一些变化似乎在颠覆原先的思路，不要担心，给我几分钟，我会解释你需要知道的一切。做好准备！
 
 ---
 
