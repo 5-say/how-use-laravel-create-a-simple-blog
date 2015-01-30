@@ -24,16 +24,19 @@
 - 接下来，我们就来在 Laravel4.3 中我最喜欢的新功能：表单请求。你有没有注意到我们一直使用不同的方式来处理验证，而所有的这些仅仅是略有不同？对于这样一个常见的任务，这是可悲的，没有一个独立的系统，让我们复用。嗯...现在有！你一定会喜欢表单请求对象的 - 特别是当我们用“方法注入”将它们混合。
 
 ## 4. New File Generators
-#####  - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/4)
+##### 新的文件生成器 - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/4)
 - Re-typing the same boilerplate over and over benefits no one. Instead, leverage the new file generators in Laravel 4.3.
+- 重复输入相同的样板一遍又一遍对谁都没有好处。相反，应该利用新的文件生成器。
 
 ## 5. Spiffy Authentication
-#####  - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/5)
+##### 出色的认证 - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/5)
 - Laravel 4.3 includes a new auth generator that will save you a great deal of time, when beginning your next new project.
+- Laravel4.3 包含一个新的身份验证引擎，在开始你的下一个新项目时，它将节省你大量的时间。
 
 ## 6. Multiple Filesystems
-#####  - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/6)
+##### 多文件系统 - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/6)
 - For a while now, we've had the luxury of choosing from multiple drivers for mail, sessions, queues, and more. However, when it came to the filesystem, we were limited to working locally. Well - not anymore! Laravel, once again embracing the best of the PHP community, now pulls in the excellent Flysystem package, while providing a light decorator around it to keep the API consistent with what you're used to.
+- 到目前为止，我们已经为“邮件”、“session”、“队列”提供了更多的驱动选择。然而，当这些加入到文件系统，we were limited to working locally。好了 - 没有了！ Laravel，再次迎来最佳的 PHP 社区，目前融合了出色的 Flysystem 包，同时提供一个轻型的修饰器包裹它来保持 API 与你已经习惯了的使用方式一致。
 
 ## 7. Contracts
 #####  - [点击观看](https://laracasts.com/series/whats-new-in-laravel-5/episodes/7)
